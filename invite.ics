@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wedding invite//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1814947200000@wedding.invite
+DTSTAMP:20260101T000000Z
+DTSTART:20270707T080000Z
+DTEND:20270707T200000Z
+SUMMARY:Свадьба: Сергей и Анастасия
+LOCATION:усадьба Лесная сказка\, г. Белокури
+ ха\, Таёжная дорога 9 км\, 1
+DESCRIPTION:15:00 — Церемония регистрации — ЗА
+ ГС\n16:30 — Празднование и фуршет — Усадь
+ ба «Лесная сказка»
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Свадьба: Сергей и Анастасия — зав
+ тра
+END:VALARM
+END:VEVENT
+END:VCALENDAR
